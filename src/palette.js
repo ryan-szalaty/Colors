@@ -8,7 +8,6 @@ class Palette extends Component {
             background={color.color}
             name={color.name}
             />);
-        console.log(colorBoxes);
         return (
             <div className="Palette">
     
