@@ -5,3 +5,21 @@
 .Palette-Colors {
     height: 90%;
 }
+
+.slider {
+    width: 400px;
+    margin: 0px 10px;
+    display: inline-block;
+}
+
+.rc-slider-track {
+    background-color: lightgreen;
+}
+
+.rc-slider-rail {
+    height: 5px;
+}
+
+.rc-slider-handle {
+    background-color: green;
+}
